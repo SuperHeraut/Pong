@@ -10,6 +10,8 @@ body {
 
 #board {
   background-color: #000;
+  border-top: 5px solid #0f0;
+  border-bottom: 5px solid #0f0;
 }
 
 @media screen and (min-width: 1080px) {

@@ -1,9 +1,15 @@
 html {
   min-height: 100vh;
+  background-color: #000;
 }
-html body {
+body {
+  text-align: center;
   background-position-x: center;
   background-position-y: center;
+}
+
+#board {
+  background-color: #000;
 }
 
 @media screen and (min-width: 1080px) {
@@ -17,5 +23,3 @@ a,
 button {
   cursor: url(../img/technical/cursor.svg), pointer;
 }
-
-/*# sourceMappingURL=style.css.map */

@@ -18,4 +18,9 @@ const MENULIST = document.createElement("ul");
 
 //variables (simple déclaration, l'assignation se fait en temps voulu)
 let lang;
+let board;
+let boardX;
+let boardY;
+let context;
+
 // const TESTTABLE = ;

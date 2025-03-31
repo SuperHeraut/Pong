@@ -10,7 +10,7 @@ const TABTITLE = document.createElement("title");
 const FAVICON = document.createElement("link");
 
 const PAGEURL = location.pathname.split("/");
-const PAGENAME = PAGEURL[PAGEURL.length - 1].split(".")[0]; //je mets ça par défaut, à modifier si besoin
+const PAGENAME = "Pong"
 
 const HEADER = document.querySelector("header");
 const NAVBAR = document.createElement("nav");
